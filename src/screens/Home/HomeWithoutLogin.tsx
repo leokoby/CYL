@@ -1,6 +1,6 @@
 import styled from "styled-components"
 
-const HomePageContainer = styled.div`
+export const HomePageContainer = styled.div`
     width: 100%;
     max-width: 1500px;
     margin: 0 auto;
