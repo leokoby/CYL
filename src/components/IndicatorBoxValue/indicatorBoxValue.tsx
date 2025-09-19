@@ -38,7 +38,7 @@ const ButtonBox = styled.button`
 `
 
 type TIndicatorBoxValue = {
-    value: number
+    value: number | string
     label?: string
     buttonType: "button" | "link"
     buttonLabel?: string

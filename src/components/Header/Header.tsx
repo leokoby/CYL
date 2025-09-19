@@ -15,6 +15,7 @@ const HeaderContent = styled.div`
     margin: 0 auto;
     align-items: end;
     gap: 2rem;
+    padding: 0 1rem;
 
     .logo{
         font-size: 24px;
